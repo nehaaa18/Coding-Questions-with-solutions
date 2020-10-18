@@ -1,3 +1,5 @@
+/* Program to print subset sum*/
+
 public class Main
 {
 	public static void main(String[] args) {
